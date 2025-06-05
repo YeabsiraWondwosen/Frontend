@@ -1,6 +1,6 @@
 # Task Manager Application
 
-![Task Manager Screenshot](./screenshot.png) <!-- Add a screenshot if available -->
+![Task Manager Screenshot](./Task.png) 
 
 A feature-rich task management web application with statistics visualization, deadline tracking, and history logging.
 
